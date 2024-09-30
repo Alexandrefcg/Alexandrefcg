@@ -12,6 +12,6 @@ Things I love the most: my wife, my family, skating, playing games, and going to
 <br>
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alexandrefcg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alexandrefcg&layout=compact&langs_count=7&theme=dracula&include_all_commits=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alexandrefcg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandrefcg&layout=compact&langs_count=7&theme=dracula&include_all_commits=true" />
 </div>

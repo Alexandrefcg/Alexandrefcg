@@ -7,7 +7,7 @@ Continuously exploring innovative tools and techniques to deliver optimized, use
 Things I love the most: my wife, my family, skating, playing games, and going to the gym.
 
 ### You can find me on
-💻 &nbsp; [Linkedin](https://www.linkedin.com/in/gabrielfreitas21/) <br>
+💻 &nbsp; [Linkedin][go](https://www.linkedin.com/in/alexandrefcg/?locale=en_US/) <br>
 
 <br>
 

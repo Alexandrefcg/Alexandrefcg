@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, nice to meet you i'm Alexandre 😎
 
-<!--
-**Alexandrefcg/Alexandrefcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced software engineer passionate about learning new technologies and crafting high-quality, excellent user experiences. 
+With a strong focus on both front-end and back-end development, I thrive in creating scalable, efficient, and maintainable solutions.
+Continuously exploring innovative tools and techniques to deliver optimized, user-centric products.
 
-Here are some ideas to get you started:
+Things I love the most: my wife, my family, skating, playing games, and going to the gym.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can find me on
+💻 &nbsp; [Linkedin](https://www.linkedin.com/in/gabrielfreitas21/) <br>
+
+<br>
+
+<div align="left">
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alexandrefcg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alexandrefcg&layout=compact&langs_count=7&theme=dracula&include_all_commits=true"/>
+</div>

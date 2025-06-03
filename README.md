@@ -11,6 +11,7 @@ In my free time, I enjoy spending time with my wife and family, skating, playing
 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/alexandrefcg/?locale=en_US)
 
 <br>
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Alexandrefcg&theme=dracula&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 

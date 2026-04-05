@@ -18,20 +18,6 @@ In my free time, I enjoy spending time with my wife and family, skating, playing
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ---
 
-### 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=Alexandrefcg&theme=dracula&no-frame=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 Stats & Most Used Languages
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandrefcg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrefcg&layout=compact&theme=dracula&langs_count=7" />
-</div>
-
----
-
 ### 🌐 You can find me on
 
 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/alexandrefcg/?locale=en_US)
